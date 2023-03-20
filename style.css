@@ -1,0 +1,35 @@
+.h1{
+     width: 259px;
+     height: 47px;
+
+}
+.img1{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 1920px;
+    height: 400px;
+}
+#text1{
+    background-color: red;
+    width: 1920px;
+    height: 450px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+#resim1{
+    width: 584px;
+    height: 498px;
+}
+.nav1{
+    width: 606;
+    height: 42;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+

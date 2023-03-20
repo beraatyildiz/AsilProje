@@ -1,0 +1,77 @@
+html,body{
+    font-family: 'Poppins', sans-serif;
+}
+.backgroundRed{
+    background-color: red;
+    height: 330px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.usttenBosluk-110{
+    margin-top: 110px;
+    
+}
+
+.fs-24{
+    font-size: 24px;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-17{
+    font-size: 17px;
+}
+.kalinYazi{
+    font-weight:bold; 
+}
+.title{
+    padding-top: 25px;
+}
+.description{
+    padding-top: 25px;
+    display: block;
+}
+.yaziSutun{
+    display: flex;
+    align-items: center;
+}
+.usttenBosluk{
+    padding-top: 10px;
+    display: flex;
+
+}
+.alttanBosluk{
+    padding-bottom: 55px;
+}
+.usttenBosluk2{
+    padding-top: 55px;
+}
+.communityUsttenBosluk{
+    margin-top: 275px;
+}
+.usstenBosluk-165{
+    padding-top: 105px;
+}
+.fromTurkey{
+    font-size: 32px;
+}
+.beyazKutu{
+    color: red;
+    background-color: white;
+    width: 380px;
+    height: 157px;
+    display: flex;
+    align-items: end;
+    padding-left: 35px;
+    margin-top: 27px;
+    padding-bottom: 27px;
+}
+
+.backgroundRed2{
+    background-color: red;
+    color: white;
+    height: 330px;
+    margin-top: 55px;
+}
+
