@@ -97,3 +97,33 @@ html,body{
 .alignEnd{
     align-self: flex-end;
 }
+.hrnew1 {
+    border-top: 1px solid #696969	;
+  }
+.fromTurkeyBosluk{
+
+    margin-top: 27px;
+}
+.footer{
+    background-color: #151921;
+}
+.footerSag{
+    background-color: #242B38;
+}
+.footerFont{
+font-size: 13px;
+color: #EAEAEA;
+}
+.logoBosluk{
+    padding-top:  35px;
+}
+.f-p1{
+    padding-top: 45px;
+}
+.footerFont2{
+    font-size: 12px;
+    color:#EAEAEA ;
+}
+.usttenBosluk45{
+    margin-top: 45px;
+}
