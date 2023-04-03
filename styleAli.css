@@ -124,6 +124,53 @@ color: #EAEAEA;
     font-size: 12px;
     color:#EAEAEA ;
 }
-.usttenBosluk45{
-    margin-top: 45px;
+.usttenBosluk65{
+    display: block;
+    margin-top: 65px;
+}
+.usttenBosluk25{
+    display: block;
+    margin-top: 25px;
+}
+.alttanBosluk65{
+    display: block;
+    margin-bottom: 65px;
+}
+.products{
+    font-size: 14px;
+    color: #C9C9C9;
+    text-transform: uppercase;
+}
+.usttenBosluk10{
+    padding-top: 10px;
+}
+.products-1{
+font-size: 16px;
+color: #EA0029;
+padding-top: 55px;
+display: block;
+text-transform: uppercase ;
+}
+.usttenBosluk-5{
+    padding-top: 5px;
+}
+.new{
+font-size: 16px;
+color: #EA0029;
+padding-top: 30px;
+display: block;
+text-transform: uppercase ;
+}
+.texts-1::after{
+    content: TOR HOLDING  GROUP COMPANY;
+    position:absolute;
+    width:auto;
+    top:-8px;
+    left:50%;
+    margin-left:-25px;
+    padding:0 10px;
+    font-size:12px;
+    color:#999;
+    text-align:center;
+    background:#fff;
 }
